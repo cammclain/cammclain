@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Cam!
+
+## I will fix this later I did not mean to do this right now haha.
 
 <!--
 **cammclain/cammclain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
