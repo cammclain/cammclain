@@ -1,6 +1,11 @@
 # Hi, I'm Cam!
 
-## I will fix this later I did not mean to do this right now haha.
+## Currently Working On: [CryptHub](https://github.com/CryptCloudCC/CryptHub)@[CryptCloud](https://github.com/CryptCloudCC)
+
+## Interests:
+- Web Tech
+- "Hacking" **LOL**
+
 
 <!--
 **cammclain/cammclain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
