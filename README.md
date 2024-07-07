@@ -6,7 +6,7 @@
 - Web Tech
 - "Hacking" **LOL**
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cammclain)](https://github.com/LordDashMe/github-contribution-stats/)
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
+GITHUB_ACTIVITY:{"rows": 10, "raw": true}
 <!--
 **cammclain/cammclain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
