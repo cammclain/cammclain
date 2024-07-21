@@ -1,7 +1,6 @@
 # Hi, I'm Cam!
 
-## Currently Working On: [CryptHub](https://github.com/IncognitLabs/CryptHub)@[OTRLabs](https://github.com/OTRLabs)
-
+## Currently Working On: [clandestine-platform](https://github.com/OTRLabs/clandestine-platform)@[OTRLabs](https://github.com/OTRLabs)
 ## Interests:
 - Web Tech
 - "Hacking" **LOL**
