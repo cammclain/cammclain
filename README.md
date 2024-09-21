@@ -1,9 +1,6 @@
 # Hi, I'm Cam!
 
-## Currently Working On: [clandestine-platform](https://github.com/OTRLabs/clandestine-platform)@[OTRLabs](https://github.com/OTRLabs)
-## Interests:
-- Web Tech
-- "Hacking" **LOL**
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cammclain)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
